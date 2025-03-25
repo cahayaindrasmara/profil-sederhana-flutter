@@ -24,7 +24,7 @@ class ProfileScreen extends StatefulWidget {
 }
 
 class _ProfileScreenState extends State<ProfileScreen> {
-  String username = "Surya Aditya GD";
+  String username = "Cahaya Indrasmara";
   String bio = "Flutter Developer";
 
   void _editName() {
